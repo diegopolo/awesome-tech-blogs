@@ -2600,4 +2600,11 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: 'WWWhatsnew',
+    description: '16 years writting about technology in spanish.',
+    url: 'https://wwwhatsnew.com',
+    twitter: '@wwwhatsnew',
+    tags: ['technology', 'news', 'apps', 'startups'],
+}
 ];
